@@ -4,7 +4,8 @@
 
 node 설치
 
-> brew install node
+brew install node
 
-> node --version
-> npm --version
+node --version
+
+npm --version
