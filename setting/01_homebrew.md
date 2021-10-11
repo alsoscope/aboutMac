@@ -35,3 +35,4 @@ Brew -h
 기본 zsh 외의 부가기능 사용은 iTerm2 및 oh My ZSH 설치
 
 ref https://medium.com/harrythegreat/oh-my-zsh-iterm2로-터미널을-더-강력하게-a105f2c01bec
+ref https://gist.github.com/nrubin29/bea5aa83e8dfa91370fe83b62dad6dfa
